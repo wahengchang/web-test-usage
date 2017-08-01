@@ -20,7 +20,7 @@ Client Rendering: drawing 500 circle purely from client script
 
 
 Server Rendering: drawing 500 circle by server
-![image](https://user-images.githubusercontent.com/5538753/28815744-ec99ab3a-76d4-11e7-9bad-ba73713d1252.png)
+![image](https://user-images.githubusercontent.com/5538753/28815878-7108c19e-76d5-11e7-928f-ff737cb9eb7d.png)
 ![image](https://user-images.githubusercontent.com/5538753/28815838-44a15e4a-76d5-11e7-914c-8979d26d0f15.png)
 
 
