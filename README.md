@@ -14,6 +14,15 @@
   //server rendering page: http://localhost:3000/server/heavy
   //client rendering page: http://localhost:3000/heavyscripting.html
  ```
+Client Rendering: drawing 500 circle purely from client script
+![image](https://user-images.githubusercontent.com/5538753/28815744-ec99ab3a-76d4-11e7-9bad-ba73713d1252.png)
+![image](https://user-images.githubusercontent.com/5538753/28815794-23d02c32-76d5-11e7-9462-6c19ab057726.png)
+
+
+Server Rendering: drawing 500 circle by server
+![image](https://user-images.githubusercontent.com/5538753/28815744-ec99ab3a-76d4-11e7-9bad-ba73713d1252.png)
+![image](https://user-images.githubusercontent.com/5538753/28815838-44a15e4a-76d5-11e7-914c-8979d26d0f15.png)
+
 
  ## Production build
  ```
